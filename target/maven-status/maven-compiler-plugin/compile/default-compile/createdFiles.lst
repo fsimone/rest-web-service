@@ -1,0 +1,10 @@
+it\experis\service\ds\CalendarDS.class
+it\experis\service\bean\SMS.class
+it\experis\service\controller\CalendarController.class
+it\experis\service\bean\Event.class
+it\experis\service\controller\SMSController.class
+it\experis\service\bean\EventList.class
+it\experis\service\validator\SMSValidator.class
+it\experis\service\bean\ResourceList.class
+it\experis\service\security\SpringSecurity.class
+it\experis\service\bean\Resource.class
